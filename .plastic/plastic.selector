@@ -1,0 +1,4 @@
+repository "Invader@fuwafuwa_1109@cloud"
+  path "/"
+    br "/main"
+    co "/main"
